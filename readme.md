@@ -2,6 +2,8 @@
 
 > Number guessing game where you speak your guess into the microphone using the speech recognition API
 
+### [Demo](http://speak-number-guess-ab.surge.sh)
+
 ### Get started
 
 ```shell script
